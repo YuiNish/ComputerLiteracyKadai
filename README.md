@@ -1,1 +1,2 @@
 # ComputerLiteracyKadai
+Mayaで作ったオブジェクト
